@@ -16,9 +16,10 @@ Technologies Used:
 1. HTML
 2. CSS
 3. JavaScript
-4. Credits
-5. The drum sounds used in this project are from FreeSound.
-6. The fonts used are from Google Fonts.
+   
+Credits:
+The drum sounds used in this project are from FreeSound.
+The fonts used are from Google Fonts.
 
 License:
 This project is licensed under the MIT License.
