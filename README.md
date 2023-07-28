@@ -1,7 +1,6 @@
 # Rhythmic-Beats-The-Interactive-Drum-Kit
 Create beats by clicking buttons or pressing keys, using HTML, CSS, and JavaScript, with sounds from FreeSound and fonts from Google Fonts.
 
-Drum Kit
 
 This is a simple Drum Kit web application that allows you to play drum sounds by clicking on the buttons or pressing the corresponding keys on your keyboard. Each button/key corresponds to a specific drum sound.
 
