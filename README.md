@@ -5,7 +5,7 @@ Create beats by clicking buttons or pressing keys, using HTML, CSS, and JavaScri
 This is a simple Drum Kit web application that allows you to play drum sounds by clicking on the buttons or pressing the corresponding keys on your keyboard. Each button/key corresponds to a specific drum sound.
 
 
-##**How to Use**
+## **How to Use**
 
 1. Open the web page in your browser.
 
@@ -14,20 +14,20 @@ This is a simple Drum Kit web application that allows you to play drum sounds by
 3. Enjoy making some cool beats!
 
 
-##**Technologies Used:**
+## **Technologies Used:**
 1. HTML
 2. CSS
 3. JavaScript
 
    
-##**Credits:**
+## **Credits:**
 The drum sounds used in this project are from FreeSound.
 The fonts used are from Google Fonts.
 
 
-###**License:**
+### **License:**
 This project is licensed under the MIT License.
 
 
-###**Author:**
+### **Author:**
 Karan Keshab Shrees
