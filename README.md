@@ -7,27 +7,31 @@ This is a simple Drum Kit web application that allows you to play drum sounds by
 
 ## **How to Use**
 
-1. Open the web page in your browser.
+- Open the web page in your browser.
 
-2. Click on the drum buttons with the letters 'w', 'a', 's', 'd', 'j', 'k', and 'l' or press these keys on your keyboard to play the corresponding drum sounds.
+- Click on the drum buttons with the letters 'w', 'a', 's', 'd', 'j', 'k', and 'l' or press these keys on your keyboard to play the corresponding drum sounds.
 
-3. Enjoy making some cool beats!
+- Enjoy making some cool beats!
 
 
 ## **Technologies Used:**
-1. HTML
-2. CSS
-3. JavaScript
+
+- HTML
+- CSS
+- JavaScript
 
    
 ## **Credits:**
+
 The drum sounds used in this project are from FreeSound.
 The fonts used are from Google Fonts.
 
 
 ## **License:**
+
 This project is licensed under the MIT License.
 
 
 ## **Author:**
+
 Karan Keshab Shrees
