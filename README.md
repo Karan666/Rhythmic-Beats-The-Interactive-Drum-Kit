@@ -25,9 +25,9 @@ The drum sounds used in this project are from FreeSound.
 The fonts used are from Google Fonts.
 
 
-### **License:**
+## **License:**
 This project is licensed under the MIT License.
 
 
-### **Author:**
+## **Author:**
 Karan Keshab Shrees
