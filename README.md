@@ -29,6 +29,7 @@ The fonts used are from Google Fonts.
 
 ## **License:**
 
+[mit](https://choosealicense.com/licenses/mit/)
 This project is licensed under the MIT License.
 
 
